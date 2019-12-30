@@ -1,0 +1,33 @@
+{
+    "emailAddress": "123@yahoo.com", 
+    "lastName": "123", 
+    "firstName": "123", 
+    "mobileNo": "123", 
+    "account": "adasdasdsaadas", …}
+    
+    "emailAddress": "123@yahoo.com"
+    "lastName": "123"
+    "firstName": "123"
+    "mobileNo": "123"
+    "account": "adasdasdsaadas"
+    "password": "13121211"
+    "type": "NORMAL"
+    "corporateFlag": "PERSONAL"
+    "branch": "123"
+    bankName: "PAR"
+    accountNo: "1234123"
+    companyName: "123"
+    companyAddress: "123"
+    companyPhone: "1212121"
+    totalEmployee: "12"
+    firstEmergencyContact: 
+        EmergencyContactname: "12121212"
+        relation: "123"
+        address: "address"
+        mobileNo: "123"
+        
+        EmergencyContactname: "123"
+        relation: "1212"
+        address: "adddress"
+        mobileNo: "123"
+        
